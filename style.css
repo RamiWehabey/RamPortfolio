@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-image: url(images/wood.jpg);
+    background-image: url(wood.jpg);
     background-size: cover;
     min-height: 100vh;
 }
